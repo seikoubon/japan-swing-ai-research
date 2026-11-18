@@ -1,0 +1,11 @@
+# Publish only the intended project files.
+*
+!.gitignore
+!README.md
+!pyproject.toml
+!market.py
+!inference.py
+!api.py
+!research.py
+!report.py
+!test_research.py
